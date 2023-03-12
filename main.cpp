@@ -66,7 +66,6 @@ int main() {
                         printf("\n\n\n\n\n");
                         break;
 
-
                 }
 
             case 2: // Геометрия
